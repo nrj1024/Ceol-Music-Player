@@ -1,4 +1,4 @@
-# Ceol-Music-Player
+# Ceol-Player
 A minimal music player made using Java with Swing library.
 
-![Preview](http://url/to/img.png)
+![Preview](https://github.com/nrj1024/Ceol-Player/blob/master/Preview.jpg)
